@@ -27,8 +27,8 @@
             src="./assets/css/gambar/Omganteng.png"
             alt="Profile Picture"
           />
-          <h2 class="text-4xl font-bold">Beryl Nemesio</h2>
-          <p class="text-red-500">A Creative UI Designer & Frontend Engineer</p>
+          <h2 class="text-4xl font-bold">Azzam Beryl Nemesio Wijoyo</h2>
+          <p class="text-red-500">UI Designer & Frontend Engineer</p>
         </div>
       </div>
     </section>
@@ -40,7 +40,7 @@
           <h3 class="text-red-500 text-xl font-bold mb-4">Discover</h3>
           <h2 class="text-3xl font-bold mb-6">About Me</h2>
           <p class="text-gray-400 leading-loose mb-6">
-            Halo! Saya Azzam Beryl, seorang individu yang antusias di bidang Teknologi Informasi dengan 
+            Halo! Saya Azzam Beryl Nemesio Wijoyo, seorang individu yang antusias di bidang Teknologi Informasi dengan 
             pengalaman lebih dari 3 tahun dalam pengembangan perangkat lunak dan desain antarmuka. 
             Saya memiliki semangat tinggi dalam menciptakan solusi digital yang inovatif dan efisien. 
             Ketertarikan saya terhadap proses kreatif dan detail dalam merancang serta membangun produk digital mendorong saya untuk terus belajar dan berkembang.
@@ -52,11 +52,11 @@
               <li><strong>Age:</strong> 19</li>
               <li><strong>Address:</strong> Situbondo, Jatim</li>
               <li><strong>Job:</strong> Nothing</li>
-              <li><strong>Hobby:</strong> Write Poetry, Abstract Painting</li>
+              <li><strong>Hobby:</strong> Singing, Sketching</li>
             </ul>
           </div>
           <a
-            href="./path/to/your/CV.pdf"
+            href="/cv-azzam-beryl.pdf"
             download
             class="bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600"
           >
